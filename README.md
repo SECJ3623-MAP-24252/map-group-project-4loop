@@ -1,6 +1,6 @@
 # AppTracker
 
-A mobile stock tracking system for pharmacies, built with Flutter (MVVM) and mock data for Sprints 1 & 2.
+A mobile stock tracking system for pharmacies, built with Flutter (MVVM).
 
 ## Features
 - User registration (Pharmacist, Staff, Stock Manager)
@@ -10,7 +10,7 @@ A mobile stock tracking system for pharmacies, built with Flutter (MVVM) and moc
 - Staff invitation (Pharmacist)
 - Inventory management (Stock Manager)
 - Real-time stock dashboard (simulated)
-- In-app chat (mock)
+- In-app chat 
 
 ## Project Structure
 ```
